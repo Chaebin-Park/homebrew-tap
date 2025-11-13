@@ -1,7 +1,7 @@
 class GradleBuildProfiler < Formula
   desc "Analyze Gradle build profiles and provide performance insights"
-  homepage "https://github.com/Chaebin-Park/GradleBuildProfiler"
-  url "https://github.com/Chaebin-Park/GradleBuildProfiler/archive/refs/tags/v0.1.1.tar.gz"
+  homepage "https://github.com/Chaebin-Park/gradle-build-profiler"
+  url "https://github.com/Chaebin-Park/gradle-build-profiler/archive/refs/tags/v0.1.1.tar.gz"
   sha256 "4cbb367053ac1206568b444ae56ddb0302cc5d252f68aa1d4bf34ea30bd499bb"
   license "MIT"
 
